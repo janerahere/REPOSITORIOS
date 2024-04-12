@@ -1,0 +1,30 @@
+{
+  "1712942859730": {
+    "originalName": "20230130_092729.jpg",
+    "fileName": "1712942859730.jpg",
+    "size": 2246750,
+    "url": "${appResourceUrl}/images/widget_1/1712942859730.jpg",
+    "created": 1712942859730,
+    "resourcesPrefix": "images/widget_1",
+    "referedIds": [],
+    "originId": "1712942859730",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 2859,
+    "originalHeight": 1816
+  },
+  "1712943961575": {
+    "originalName": "exb_logo.png",
+    "fileName": "1712943961575.png",
+    "size": 15681,
+    "url": "${appResourceUrl}/images/widget_7/1712943961575.png",
+    "created": 1712943961575,
+    "resourcesPrefix": "images/widget_7",
+    "referedIds": [],
+    "originId": "1712943961575",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 220,
+    "originalHeight": 220
+  }
+}
